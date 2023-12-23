@@ -1,0 +1,13 @@
+#pip install -r requirements.txt
+
+numpy
+opencv-python
+tensorflow==2.15.0
+Pillow
+matplotlib
+statistics
+geopy
+meteostat
+nltk
+keras
+email
